@@ -3,6 +3,9 @@
 
 # 약관을-읽어주세요: 이용자를 보호하는 약관 분석 경량화 모델
 
+## 0. 환경 구조
+VSCode Remote Connection <=> Github Codespace <=> Google Colab Kernel
+
 ## 1. 프로젝트 개요 (Overview)
 기업의 이용 약관(ToS) 속에 숨겨진 **불공정 조항(Unfair Clauses)**을 실시간으로 탐지하여 사용자에게 알리는 브라우저 확장 프로그램용 AI 모델입니다.
 
